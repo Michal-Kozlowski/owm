@@ -14,3 +14,7 @@ yarn run serve
 ```
 yarn run build
 ```
+### Live demo
+
+https://michal-kozlowski.github.io/owm/
+
